@@ -1,5 +1,5 @@
-This is my League of legends HELPER GUI
-To run the file you will need to first download the textfile labeled champions, as well as the PNG file labeled MAP.
-Botehr are require to run the program.
-If you would like to comment, or suggest anything for the code itself please let me know,
-do keep in mind this was an earlier stage of the progject and i hadn't quite finished a few functions. Never the less i hope you enjoy it
+This is my first crack at a GUI
+This is a really early example of some of my work
+The basic idea is a League of Legends companion tool - largely predating some of the standards a companion app should contain
+Hence the very bare bones visuals and function
+It's mostly a demo on the usage of Tkinter as a whole and some of the capabilies it has a system for designing a GUI
