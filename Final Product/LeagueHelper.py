@@ -3041,5 +3041,5 @@ unimportant.place(x=565, y=0)
 #And a lot of research
 #But I was able to do it
 #My own Finished application
-#Well equped with a user friendly GUI
+#Well equipped with a user friendly GUI
 mainloop()
